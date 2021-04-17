@@ -1207,6 +1207,10 @@ body {
     align-items: center;
   }
 
+  .md\:justify-start {
+    justify-content: flex-start;
+  }
+
   .md\:h-9 {
     height: 2.25rem;
   }
